@@ -51,4 +51,8 @@ https://www.youtube.com/watch?v=HXvC9pFHWvM&t=339s
 
 ### Youtube demostration
 
+https://youtu.be/8aSg3cmVJ2c
+
 ### Playable game
+
+https://darioml22.github.io/GMD-game/
