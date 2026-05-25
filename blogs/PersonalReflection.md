@@ -1,0 +1,13 @@
+# Personal Reflection
+
+I enjoyed working on Wind of Change very much. I had the idea for the game for quite some time now, and GMD was the perfect excuse to actually make it real. The game still has a lot to be done, since ideally I would like it to be like a game from the Bioshock saga, just based on a historical setting instead of fictional cities. With the right budget, time, skills and personnel, WoC could have a good story to tell with a good environment to play in. New enemies like partisans, babushkas or Securitate (Romanian CIA) officers, together with multiple guns would make this game much richer. 
+
+When I started working on the game I thought by the end of the semester I could have a good indie FPS game, but while working on it I realized that making games is more complex that what it looks like at first sight, and that the developing process is much slower.
+
+Still, I’m happy with the result. I did not have any previous experience related to GameDev besides creating resource packs or custom worlds in Minecraft, so I definitely learned a lot making this project. Now that I have the base for the game, I will definitely consider continuing to keep working on it, since I feel that the idea I have in mind is plausible with enough time.  
+
+One of the hardest things to make, in my opinion, was the AI. At the beginning I thought it would be something rather easy to implement, but I spent almost a whole day just making them shoot the player. Mostly because I had to figure out what was the best way to organize the script, what could the player and the enemy share (code wise) and what could they not.
+
+On the other hand, I found mapmaking to be quite easy and entertaining. I would have loved to work more on the map design, even adding the new scenes mentioned before, but making the core mechanics of the game (such as shooting or healing) took out the time I originally planned to spend on perfecting the map. 
+
+When it comes to the subject, I think it was very well organized, and the workshop sessions (even though I did not use them that much) offered a space to both work on the game and get professional feedback, which was rather helpful. Since I started my bachelor programme, I was curious about this subject, and it has definitely met my expectations and helped me get a base understanding on how game development actually works.
